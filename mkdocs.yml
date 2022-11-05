@@ -1,5 +1,0 @@
-site_name: PSEdgeKeywords
-repo_url: https://github.com/jimbrig/PSClearHost
-theme: readthedocs
-docs_dir: Docs
-site_dir: Docs\_site
