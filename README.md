@@ -38,14 +38,16 @@ Clear-HostRaindrop -Mode Flipping -Speed 2.0
 
 ## Demos
 
+Click on a demonstration video below to see the module in action!
+
 ### Bricks Mode
 
-![](Assets/demo/Bricks-Demo.mp4)
+https://user-images.githubusercontent.com/32652297/200099398-29dd1d6c-3ffa-4ec6-9833-7bbfbcdf2fc7.mp4
 
 ### Falling Mode
 
-![](Assets/demo/Falling-Demo.mp4)
+https://user-images.githubusercontent.com/32652297/200099413-5400a1f9-c88d-4e60-b8ef-c07013f73c98.mp4
 
 ### Flipping Mode
 
-![](Assets/demo/Flipping-Demo.mp4)
+https://user-images.githubusercontent.com/32652297/200099418-22c6cc4c-ca8d-4dcf-8328-d451b450456a.mp4
