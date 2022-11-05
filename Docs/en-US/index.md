@@ -1,6 +1,6 @@
-<span><img src=".\Assets\img\powershell_500px.png" height="10%" width="10%" align=left /><h1>PSClearHost</h1><img src=".\Assets\logo.png" height="15%" width="15%" align=right /></span>
+<span><img src="./Assets/img/powershell_500px.png" height="10%" width="10%" align=left /><h1>PSClearHost</h1><img src="./Assets/logo.png" height="15%" width="15%" align=right /></span>
 
-> A PowerShell Module that adds awesome `Clear-Host` animations for your shell/terminal!
+> Custom PowerShell Module to Clear your Terminal Shell's Host in Spectacular Fashion!
 
 *View the repo's [Changelog](CHANGELOG.md) for details on the progression of the codebase over time.*
 
@@ -39,12 +39,12 @@ Clear-HostRaindrop -Mode Flipping -Speed 2.0
 
 ### Bricks Mode
 
-![](Assets/demo/Bricks-Demo.mp4)
+![](./Assets/demo/Bricks-Demo.mp4)
 
 ### Falling Mode
 
-![](Assets/demo/Falling-Demo.mp4)
+![](./Assets/demo/Falling-Demo.mp4)
 
 ### Flipping Mode
 
-![](Assets/demo/Flipping-Demo.mp4)
+![](./Assets/demo/Flipping-Demo.mp4)

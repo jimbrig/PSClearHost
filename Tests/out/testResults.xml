@@ -1,69 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="29" errors="0" failures="2" not-run="0" inconclusive="0" ignored="0" skipped="2" invalid="0" date="2022-11-04" time="22:53:01">
-  <environment user="jimmy" platform="Microsoft Windows 11 Pro Insider Preview|C:\WINDOWS|\Device\Harddisk0\Partition5" user-domain="DESKTOP-CUSTOM" machine-name="DESKTOP-CUSTOM" nunit-version="2.5.8.0" clr-version="Unknown" cwd="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests" os-version="10.0.25231" />
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="28" errors="0" failures="2" not-run="0" inconclusive="0" ignored="0" skipped="2" invalid="0" date="2022-11-04" time="23:32:35">
+  <environment platform="Microsoft Windows 11 Pro Insider Preview|C:\WINDOWS|\Device\Harddisk0\Partition5" os-version="10.0.25231" machine-name="DESKTOP-CUSTOM" user-domain="DESKTOP-CUSTOM" clr-version="Unknown" cwd="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests" nunit-version="2.5.8.0" user="jimmy" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="TestFixture" name="Pester" executed="True" result="Failure" success="False" time="1.8646" asserts="0" description="Pester">
+  <test-suite type="TestFixture" name="Pester" executed="True" result="Failure" success="False" time="1.5188" asserts="0" description="Pester">
     <results>
-      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Help.Tests.ps1" executed="True" result="Success" success="True" time="0.7128" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Help.Tests.ps1">
+      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Help.Tests.ps1" executed="True" result="Success" success="True" time="0.7331" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Help.Tests.ps1">
         <results>
-          <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop" executed="True" result="Success" success="True" time="0.5382" asserts="0" description="Test help for Clear-HostRaindrop">
+          <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop" executed="True" result="Success" success="True" time="0.5591" asserts="0" description="Test help for Clear-HostRaindrop">
             <results>
-              <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender" executed="True" result="Success" success="True" time="0.4773" asserts="0" description="Test help for Clear-HostRaindrop.Parameter DebugSkipRender">
+              <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender" executed="True" result="Success" success="True" time="0.4944" asserts="0" description="Test help for Clear-HostRaindrop.Parameter DebugSkipRender">
                 <results>
-                  <test-case description="Has description" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender.Has description" time="0.0059" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has correct [mandatory] value" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender.Has correct [mandatory] value" time="0.0041" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has correct parameter type" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender.Has correct parameter type" time="0.009" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has description" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender.Has description" time="0.0058" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has correct [mandatory] value" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender.Has correct [mandatory] value" time="0.0098" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has correct parameter type" name="Test help for Clear-HostRaindrop.Parameter DebugSkipRender.Has correct parameter type" time="0.0063" asserts="0" success="True" result="Success" executed="True" />
                 </results>
               </test-suite>
-              <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop.Parameter Mode" executed="True" result="Success" success="True" time="0.4935" asserts="0" description="Test help for Clear-HostRaindrop.Parameter Mode">
+              <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop.Parameter Mode" executed="True" result="Success" success="True" time="0.5129" asserts="0" description="Test help for Clear-HostRaindrop.Parameter Mode">
                 <results>
-                  <test-case description="Has description" name="Test help for Clear-HostRaindrop.Parameter Mode.Has description" time="0.0051" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has correct [mandatory] value" name="Test help for Clear-HostRaindrop.Parameter Mode.Has correct [mandatory] value" time="0.0042" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has correct parameter type" name="Test help for Clear-HostRaindrop.Parameter Mode.Has correct parameter type" time="0.0038" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has description" name="Test help for Clear-HostRaindrop.Parameter Mode.Has description" time="0.006" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has correct [mandatory] value" name="Test help for Clear-HostRaindrop.Parameter Mode.Has correct [mandatory] value" time="0.0041" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has correct parameter type" name="Test help for Clear-HostRaindrop.Parameter Mode.Has correct parameter type" time="0.0046" asserts="0" success="True" result="Success" executed="True" />
                 </results>
               </test-suite>
-              <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop.Parameter Speed" executed="True" result="Success" success="True" time="0.5087" asserts="0" description="Test help for Clear-HostRaindrop.Parameter Speed">
+              <test-suite type="TestFixture" name="Test help for Clear-HostRaindrop.Parameter Speed" executed="True" result="Success" success="True" time="0.535" asserts="0" description="Test help for Clear-HostRaindrop.Parameter Speed">
                 <results>
-                  <test-case description="Has description" name="Test help for Clear-HostRaindrop.Parameter Speed.Has description" time="0.0044" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has correct [mandatory] value" name="Test help for Clear-HostRaindrop.Parameter Speed.Has correct [mandatory] value" time="0.0036" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has correct parameter type" name="Test help for Clear-HostRaindrop.Parameter Speed.Has correct parameter type" time="0.0039" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has description" name="Test help for Clear-HostRaindrop.Parameter Speed.Has description" time="0.0054" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has correct [mandatory] value" name="Test help for Clear-HostRaindrop.Parameter Speed.Has correct [mandatory] value" time="0.0078" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has correct parameter type" name="Test help for Clear-HostRaindrop.Parameter Speed.Has correct parameter type" time="0.0047" asserts="0" success="True" result="Success" executed="True" />
                 </results>
               </test-suite>
-              <test-case description="Help is not auto-generated" name="Test help for Clear-HostRaindrop.Help is not auto-generated" time="0.006" asserts="0" success="True" result="Success" executed="True" />
-              <test-case description="Has description" name="Test help for Clear-HostRaindrop.Has description" time="0.004" asserts="0" success="True" result="Success" executed="True" />
-              <test-case description="Has example code" name="Test help for Clear-HostRaindrop.Has example code" time="0.0032" asserts="0" success="True" result="Success" executed="True" />
-              <test-case description="Has example help" name="Test help for Clear-HostRaindrop.Has example help" time="0.0031" asserts="0" success="True" result="Success" executed="True" />
-              <test-suite type="ParameterizedTest" name="Test help for &lt;_.Name&gt;.Help link &lt;_&gt; is valid" executed="True" result="Success" success="True" time="0.4381" asserts="0" description="Help link &lt;_&gt; is valid">
+              <test-case description="Help is not auto-generated" name="Test help for Clear-HostRaindrop.Help is not auto-generated" time="0.0079" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="Has description" name="Test help for Clear-HostRaindrop.Has description" time="0.0139" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="Has example code" name="Test help for Clear-HostRaindrop.Has example code" time="0.0034" asserts="0" success="True" result="Success" executed="True" />
+              <test-case description="Has example help" name="Test help for Clear-HostRaindrop.Has example help" time="0.0029" asserts="0" success="True" result="Success" executed="True" />
+              <test-suite type="ParameterizedTest" name="Test help for &lt;_.Name&gt;.Help link &lt;_&gt; is valid" executed="True" result="Success" success="True" time="0.4391" asserts="0" description="Help link &lt;_&gt; is valid">
                 <results>
-                  <test-case description="Help link https://github.com/jimbrig/PSClearHost is valid" name="Test help for Clear-HostRaindrop.Help link https://github.com/jimbrig/PSClearHost is valid" time="0.4381" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Help link https://github.com/jimbrig/PSClearHost is valid" name="Test help for Clear-HostRaindrop.Help link https://github.com/jimbrig/PSClearHost is valid" time="0.4391" asserts="0" success="True" result="Success" executed="True" />
                 </results>
               </test-suite>
             </results>
           </test-suite>
         </results>
       </test-suite>
-      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1" executed="True" result="Failure" success="False" time="0.5211" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1">
+      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1" executed="True" result="Failure" success="False" time="0.2967" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1">
         <results>
-          <test-suite type="TestFixture" name="Module manifest" executed="True" result="Failure" success="False" time="0.281" asserts="0" description="Module manifest">
+          <test-suite type="TestFixture" name="Module manifest" executed="True" result="Failure" success="False" time="0.0531" asserts="0" description="Module manifest">
             <results>
-              <test-suite type="TestFixture" name="Module manifest.Validation" executed="True" result="Failure" success="False" time="0.2773" asserts="0" description="Module manifest.Validation">
+              <test-suite type="TestFixture" name="Module manifest.Validation" executed="True" result="Failure" success="False" time="0.0497" asserts="0" description="Module manifest.Validation">
                 <results>
-                  <test-case description="Has a valid manifest" name="Module manifest.Validation.Has a valid manifest" time="0.015" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid name in the manifest" name="Module manifest.Validation.Has a valid name in the manifest" time="0.037" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid root module" name="Module manifest.Validation.Has a valid root module" time="0.0177" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid version in the manifest" name="Module manifest.Validation.Has a valid version in the manifest" time="0.018" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid description" name="Module manifest.Validation.Has a valid description" time="0.0176" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid author" name="Module manifest.Validation.Has a valid author" time="0.016" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid guid" name="Module manifest.Validation.Has a valid guid" time="0.0506" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid copyright" name="Module manifest.Validation.Has a valid copyright" time="0.0177" asserts="0" success="True" result="Success" executed="True" />
-                  <test-case description="Has a valid version in the changelog" name="Module manifest.Validation.Has a valid version in the changelog" time="0.0515" asserts="0" success="False" result="Failure" executed="True">
+                  <test-case description="Has a valid manifest" name="Module manifest.Validation.Has a valid manifest" time="0.0047" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid name in the manifest" name="Module manifest.Validation.Has a valid name in the manifest" time="0.004" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid root module" name="Module manifest.Validation.Has a valid root module" time="0.0032" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid version in the manifest" name="Module manifest.Validation.Has a valid version in the manifest" time="0.0034" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid description" name="Module manifest.Validation.Has a valid description" time="0.0035" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid author" name="Module manifest.Validation.Has a valid author" time="0.0027" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid guid" name="Module manifest.Validation.Has a valid guid" time="0.0041" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid copyright" name="Module manifest.Validation.Has a valid copyright" time="0.0032" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="Has a valid version in the changelog" name="Module manifest.Validation.Has a valid version in the changelog" time="0.011" asserts="0" success="False" result="Failure" executed="True">
                     <failure>
                       <message>Expected a value, but got $null or empty.</message>
                       <stack-trace>at $changelogVersion               | Should -Not -BeNullOrEmpty, C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1:57
 at &lt;ScriptBlock&gt;, C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1:57</stack-trace>
                     </failure>
                   </test-case>
-                  <test-case description="Changelog and manifest versions are the same" name="Module manifest.Validation.Changelog and manifest versions are the same" time="0.0314" asserts="0" success="False" result="Failure" executed="True">
+                  <test-case description="Changelog and manifest versions are the same" name="Module manifest.Validation.Changelog and manifest versions are the same" time="0.007" asserts="0" success="False" result="Failure" executed="True">
                     <failure>
                       <message>Expected 1.0.0, but got $null.</message>
                       <stack-trace>at $changelogVersion -as [Version] | Should -Be ( $manifestData.Version -as [Version] ), C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Manifest.Tests.ps1:62
@@ -74,37 +74,28 @@ at &lt;ScriptBlock&gt;, C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClea
               </test-suite>
             </results>
           </test-suite>
-          <test-suite type="TestFixture" name="Git tagging" executed="True" result="Ignored" success="True" time="0.3042" asserts="0" description="Git tagging">
+          <test-suite type="TestFixture" name="Git tagging" executed="True" result="Ignored" success="True" time="0.0619" asserts="0" description="Git tagging">
             <results>
-              <test-case description="Is tagged with a valid version" name="Git tagging.Is tagged with a valid version" time="0.0088" asserts="0" success="False" result="Ignored" executed="False" />
-              <test-case description="Matches manifest version" name="Git tagging.Matches manifest version" time="0.0034" asserts="0" success="False" result="Ignored" executed="False" />
+              <test-case description="Is tagged with a valid version" name="Git tagging.Is tagged with a valid version" time="0.0041" asserts="0" success="False" result="Ignored" executed="False" />
+              <test-case description="Matches manifest version" name="Git tagging.Matches manifest version" time="0.002" asserts="0" success="False" result="Ignored" executed="False" />
             </results>
           </test-suite>
         </results>
       </test-suite>
-      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Meta.Tests.ps1" executed="True" result="Success" success="True" time="0.1604" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Meta.Tests.ps1">
+      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Meta.Tests.ps1" executed="True" result="Success" success="True" time="0.1426" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\Meta.Tests.ps1">
         <results>
-          <test-suite type="TestFixture" name="Text files formatting" executed="True" result="Success" success="True" time="0.0224" asserts="0" description="Text files formatting">
+          <test-suite type="TestFixture" name="Text files formatting" executed="True" result="Success" success="True" time="0.0157" asserts="0" description="Text files formatting">
             <results>
-              <test-suite type="TestFixture" name="Text files formatting.File encoding" executed="True" result="Success" success="True" time="0.0091" asserts="0" description="Text files formatting.File encoding">
+              <test-suite type="TestFixture" name="Text files formatting.File encoding" executed="True" result="Success" success="True" time="0.0075" asserts="0" description="Text files formatting.File encoding">
                 <results>
-                  <test-case description="No text file uses Unicode/UTF-16 encoding" name="Text files formatting.File encoding.No text file uses Unicode/UTF-16 encoding" time="0.0063" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="No text file uses Unicode/UTF-16 encoding" name="Text files formatting.File encoding.No text file uses Unicode/UTF-16 encoding" time="0.0052" asserts="0" success="True" result="Success" executed="True" />
                 </results>
               </test-suite>
-              <test-suite type="TestFixture" name="Text files formatting.Indentations" executed="True" result="Success" success="True" time="0.0198" asserts="0" description="Text files formatting.Indentations">
+              <test-suite type="TestFixture" name="Text files formatting.Indentations" executed="True" result="Success" success="True" time="0.0135" asserts="0" description="Text files formatting.Indentations">
                 <results>
-                  <test-case description="No text file use tabs for indentations" name="Text files formatting.Indentations.No text file use tabs for indentations" time="0.0074" asserts="0" success="True" result="Success" executed="True" />
+                  <test-case description="No text file use tabs for indentations" name="Text files formatting.Indentations.No text file use tabs for indentations" time="0.0036" asserts="0" success="True" result="Success" executed="True" />
                 </results>
               </test-suite>
-            </results>
-          </test-suite>
-        </results>
-      </test-suite>
-      <test-suite type="TestFixture" name="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\PSClearHost.Tests.ps1" executed="True" result="Success" success="True" time="0.4703" asserts="0" description="C:\Users\jimmy\Documents\PowerShell\CustomModules\PSClearHost\Tests\PSClearHost.Tests.ps1">
-        <results>
-          <test-suite type="TestFixture" name="PSClearHost" executed="True" result="Success" success="True" time="0.421" asserts="0" description="PSClearHost">
-            <results>
-              <test-case description="shows no warnings and errors of PSScriptAnalyzer" name="PSClearHost.shows no warnings and errors of PSScriptAnalyzer" time="0.4183" asserts="0" success="True" result="Success" executed="True" />
             </results>
           </test-suite>
         </results>
