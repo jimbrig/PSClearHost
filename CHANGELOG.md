@@ -1,6 +1,11 @@
 # Changelog
 *All notable changes to this project will be documented in this file.*
 
+
+### Documentation
+
+- Tweak README.md
+
 ## [1.0.0] - 2022-11-05
 
 ### Bug Fixes
