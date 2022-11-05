@@ -58,16 +58,12 @@ Function Clear-HostRaindrop {
         [ValidateRange(0.1, 10)]
         [Double]$Speed = 1.0,
 
-        [Parameter(ValueFromPipelineByPropertyName = $true)]
-        [ValidateRange(1, 240)]
-        [Int]$Framerate = 60,
-
         [Parameter()]
         [Switch]$DebugSkipRender
     )
 
     Begin {
-        $dt = 1.0 / $Framerate
+        # $dt = 1.0 / $Framerate
         $vsyncTimer = New-Object System.Diagnostics.StopWatch
         $dtTimer = New-Object System.Diagnostics.StopWatch
 
@@ -108,8 +104,8 @@ Function Clear-HostRaindrop {
 
 }
 
-New-Alias -Name clear -Value Clear-HostRaindrop -Option AllScope
-New-Alias -Name cls -Value Clear-HostRaindrop -Option AllScope
+New-Alias -Name clear -Value Clear-HostRaindrop -Option AllScope -Force
+New-Alias -Name cls -Value Clear-HostRaindrop -Option AllScope -Force
 
 
 #     $player = $playerClass::New($windowRect, $speed)

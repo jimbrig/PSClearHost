@@ -9,5 +9,6 @@
     "powershell.codeFormatting.useCorrectCasing": true,
     "powershell.scriptAnalysis.enable": true,
     "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
-    "pester.autoRunOnSave": false
+    "pester.autoRunOnSave": false,
+    "DockerRun.DisableDockerrc": true
 }
