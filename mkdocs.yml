@@ -1,5 +1,5 @@
 site_name: PSClearHost
 repo_url: https://github.com/jimbrig/PSClearHost
 theme: readthedocs
-docs_dir: Docs\en-US
-site_dir: Docs\_site
+docs_dir: Docs/en-US
+site_dir: Docs/_site
