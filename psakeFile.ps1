@@ -15,8 +15,6 @@ task Default -depends Test
 
 task Test -FromModule PowerShellBuild -minimumVersion '0.6.1'
 
-# task Pester -FromModule PowerShellBuild -minimumVersion '0.6.1' -preaction { Remove-Module PSEdgeKeywords -ErrorAction SilentlyContinue }
-
 task InstallAct {
     if (-not (Get-Command -Name act -CommandType Application -ErrorAction SilentlyContinue)) {
         if ($IsWindows) {
