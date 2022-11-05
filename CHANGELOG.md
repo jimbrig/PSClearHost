@@ -2,6 +2,10 @@
 *All notable changes to this project will be documented in this file.*
 
 
+### Bug Fixes
+
+- Fix mkdocs config
+
 ### Documentation
 
 - Tweak README.md
