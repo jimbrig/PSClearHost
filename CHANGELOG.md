@@ -5,6 +5,7 @@
 ### Documentation
 
 - Tweak README.md
+- Fix demos in readme
 
 ## [1.0.0] - 2022-11-05
 
