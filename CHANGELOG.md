@@ -15,6 +15,7 @@
 ### Features
 
 - Add ghpkg.yml workflow
+- Add publish nuget ghpackage workflow
 
 ## [1.0.0] - 2022-11-05
 
