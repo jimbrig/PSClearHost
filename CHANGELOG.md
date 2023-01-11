@@ -10,6 +10,11 @@
 
 - Tweak README.md
 - Fix demos in readme
+- Add docs for publishing
+
+### Features
+
+- Add ghpkg.yml workflow
 
 ## [1.0.0] - 2022-11-05
 
