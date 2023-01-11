@@ -12,6 +12,7 @@
 - Fix demos in readme
 - Add docs for publishing
 - Move Publish.md
+- Add ghpackage nuget badge to readme
 
 ### Features
 
