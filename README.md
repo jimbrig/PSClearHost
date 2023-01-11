@@ -17,6 +17,8 @@
 
 [![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/PSClearHost?color=0092ff&label=PowerShell%20Gallery&logoColor=0092ff)](https://www.powershellgallery.com/packages/PSClearHost/1.0.0)
 
+[![Publish GitHub NuGet Package](https://github.com/jimbrig/PSClearHost/actions/workflows/ghpkg.yml/badge.svg)](https://github.com/jimbrig/PSClearHost/actions/workflows/ghpkg.yml)
+
 [![Test Module](https://github.com/jimbrig/PSClearHost/actions/workflows/test.yml/badge.svg)](https://github.com/jimbrig/PSClearHost/actions/workflows/test.yml)
 [![Build Module](https://github.com/jimbrig/PSClearHost/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/jimbrig/PSClearHost/actions/workflows/build.yml)
 [![Publish Module](https://github.com/jimbrig/PSClearHost/actions/workflows/publish.yml/badge.svg)](https://github.com/jimbrig/PSClearHost/actions/workflows/publish.yml)
