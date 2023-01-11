@@ -11,6 +11,7 @@
 - Tweak README.md
 - Fix demos in readme
 - Add docs for publishing
+- Move Publish.md
 
 ### Features
 
